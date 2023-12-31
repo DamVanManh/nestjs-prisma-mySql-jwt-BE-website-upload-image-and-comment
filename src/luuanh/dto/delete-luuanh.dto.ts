@@ -1,0 +1,1 @@
+export class DeleteLuuanhDto { hinh_id: number; }
